@@ -10,7 +10,7 @@ ani.save('animation_0.gif', writer='PillowWriter', fps=25)
 ```
 
 to get an output like this:
-![](https://github.com/araktan/minesweeper_solver/animationm_0.gif)
+![](https://github.com/araktan/minesweeper_solver/animationm_0.gif](https://github.com/araktan/minesweeper_solver/blob/main/animation_0.gif)
 
 you can also have it show directly in your jupyterlab notebook like this:
 
