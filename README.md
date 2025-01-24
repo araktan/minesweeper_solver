@@ -10,7 +10,7 @@ ani.save('animation_0.gif', writer='PillowWriter', fps=25)
 ```
 
 to get an output like this:
-`![minesweeper animation](animationm_0.gif)`
+![minesweeper animation](animationm_0.gif)
 
 you can also have it show directly in your jupyterlab notebook like this:
 
