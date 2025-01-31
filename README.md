@@ -3,7 +3,7 @@
 ### Usage example: 
 
 ```python
-from .minesweeper_solver import animate_solution
+from minesweeper_solver import animate_solution
 
 ani = animate_solution()
 ani.save('animation_0.gif', writer='PillowWriter', fps=25)
