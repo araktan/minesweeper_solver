@@ -1,4 +1,4 @@
-## A toy project for visualizing the Breadth First Search Algorithm. 
+## A toy project primarily for visualizing the Breadth First Search Algorithm. 
 
 ### Usage example: 
 
@@ -23,4 +23,5 @@ HTML(ani.to_jshtml())
 
 ### Note
 
-If you ask the question - can this solve any minesweeper grid - the answer is **no**. Minesweeper is a rabithole. Albeit an interesting one. Inherently not all minesweeper grids are solvable. The nature of the puzzle is such that for a randomly generated grid - it may require to guess at some point. This is a very rudimentary algorithm. Humans are able to identify patterns - heuristics are not implemented here. Not yet anyway.
+If you ask the question - can this solve any minesweeper grid - the answer is **no**. Inherently not all minesweeper grids are solvable. The nature of the puzzle is such that solving a randomly generated grid may require guessing. 
+
